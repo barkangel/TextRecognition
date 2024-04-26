@@ -26,5 +26,6 @@ Utilizing 2 main methods:
 - output : This is where GUI output goes. Autoscan generated output files result in parent directory. 
 
 ## How to run:
+- put images you want to scan in input folder
 - install requirements.txt
 - py (filename) to run any of the files. All are command line based besides gui.py.
